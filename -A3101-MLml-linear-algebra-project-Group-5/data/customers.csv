@@ -1,0 +1,6 @@
+CustomerID,Age,IncomeLevel,SignupDate
+1001,34,High,2020-01-26
+1002,-1,Medium,30/01/2020
+1003,150,Low,2021-05-12
+1004,28,,2022-11-02
+1001,34,High,2020-01-26

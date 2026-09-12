@@ -1,0 +1,3 @@
+InteractionID,CustomerID,Platform,Sentiment,InteractionDate
+I501,1001,Facebook,Positive,2023-01-10
+I502,1002,Unknown,Neutral,2023-12-01
